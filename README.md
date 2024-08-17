@@ -55,10 +55,9 @@
 
 
 
+<div align="center" >
+  <a href="https://github.com/torihazi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torihazi&layout=donut&theme=tokyonight&bg_color=000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true&card_width=400&card_height=700" alt="Top Langs" />
+  </a>
+</div>
 
-<a href="https://github.com/torihazi/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torihazi&layout=donut&theme=tokyonight&bg_color=000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true&card_width=400" alt="Top Langs" />
-</a>
-
-
----
