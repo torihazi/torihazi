@@ -44,17 +44,21 @@
 </a>
 
 
+<div align="center">
+  <div style="display: flex;" >
+    <img src="https://github-readme-stats.vercel.app/api?username=torihazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7" />
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&background=1a1b27&border=ffffff&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7&dates=ffffff&excludeDaysLabel=ffffff&card_height=195&card_width=540" />
+  </div>
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=torihazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=torihazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=torihazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7" />
-</picture>
+</div>
+
+
+
+
+<a href="https://github.com/torihazi/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torihazi&layout=donut&theme=tokyonight&bg_color=000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true&card_width=400" alt="Top Langs" />
+</a>
+
 
 ---
