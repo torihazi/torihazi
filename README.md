@@ -54,8 +54,8 @@
 
 <div align="center">
   <div style="display: flex;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=torihazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=400" />
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&background=1a1b27&border=ffffff&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7&dates=ffffff&excludeDaysLabel=ffffff&card_height=195&card_width=480" />
+    <img src="https://github-readme-stats.vercel.app/api?username=torihazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=370" />
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&background=1a1b27&border=ffffff&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7&dates=ffffff&excludeDaysLabel=ffffff&card_height=195&card_width=450" />
   </div>
 </div>
 
