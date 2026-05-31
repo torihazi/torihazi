@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,htmx,terraform,aws,gcp,redis,graphql" />
+    <img src="https://skillicons.dev/icons?i=go,terraform,aws,gcp,redis" />
   </a>
 </p>
 
